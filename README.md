@@ -1,7 +1,7 @@
 ### Hey there👋, I’m Daksh Sawhney! Nice to meet you! 
 - 👀 I’m interested in becoming a Full Stack Developer.
 - 🌱 I’m currently learning Backend Development
-- 📫 How to reach me - [darkstardaksh@gmail.com](mailto:dakshsawhneyy@gmail.com)
+- 📫 How to reach me - [darkstardaksh@gmail.com](dakshsawhneyy@gmail.com)
 - 😄 Pronouns: he/him
 
 ### My Skills
