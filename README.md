@@ -13,7 +13,7 @@
 - Full Stack Food Market App - A platform for browsing groceries.
 - Full Stack Spotify Clone - A replica of the Spotify web app with music streaming functionality.
 - 3D Slider - An interactive 3D slider showcasing different content.
-- Earphone Slider - An interactive(https://daksh-earphones-website.netlify.app/) custom slider to display various earphone products.
+- Earphone Slider(https://daksh-earphones-website.netlify.app/) - An interactive custom slider to display various earphone products.
 - Animal Slider - A creative slider for showcasing different animals.
 
 ### Get in Touch
