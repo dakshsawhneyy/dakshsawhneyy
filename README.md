@@ -9,7 +9,12 @@
 - Frameworks and Libraries: React, Node.js
 
 ### Recent Projects
-- [Portfolio Website](https://github.com/dakshsawhneyy/My-Portfolio) - My personal portfolio website showcasing my projects and skills.
+- Full Stack Food Delivery Website - A web application for ordering food online.
+- Full Stack Food Market App - A platform for browsing and purchasing groceries.
+- Full Stack Spotify Clone - A replica of the Spotify web app with music streaming functionality.
+- 3D Slider - An interactive 3D slider showcasing different content.
+- Earphone Slider - A custom slider to display various earphone products.
+- Animal Slider - A creative slider for showcasing different animals.
 
 ### Get in Touch
 - [Email](mailto:dakshsawhneyy@gmail.com)
