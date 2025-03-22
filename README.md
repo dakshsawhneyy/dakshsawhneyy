@@ -1,17 +1,17 @@
 <h1 align="center">Daksh Sawhney</h1>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Cloud+Engineer;DevOps+Enthusiast;MERN+Stack+Developer;DSA+Practitioner" width="auto" height="35" alt="Typing"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Cloud+DevOps+Enthusiast;MERN+Stack+Learner;DSA+Practitioner" width="auto" height="35" alt="Typing"/>
 </p>
 <p align="center">
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
 </p>
 <h2 align="center">👨‍💻 About Me:</h2>
-<p align="justify">I am a passionate Cloud and DevOps engineer with expertise in automation, deployment, and scalable solutions. I thrive on solving complex system challenges, optimizing workflows, and ensuring smooth deployments. I also have a strong background in full-stack development (MERN) and Data Structures & Algorithms (DSA). My interests include:</p>
+<p align="justify">I am a **passionate Cloud and DevOps enthusiast**, continuously learning automation, deployment, and scalable infrastructure solutions. I love problem-solving, optimizing workflows, and ensuring smooth deployments. My journey also includes **full-stack (MERN) development** and **Data Structures & Algorithms (DSA).** I’m always eager to explore new technologies and improve my skills.</p>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Cloud+Computing;DevOps;Kubernetes;AWS;CI/CD+Automation" width="auto" height="35" alt="Typing"/>
 </p>
-<p align="center">Currently learning -> Advanced AWS & DevSecOps</p>
-<p align="center">Currently working on -> Automating a MERN E-Commerce Platform</p>
+<p align="center">🌱 **Currently Learning:** Advanced AWS & DevSecOps</p>
+<p align="center">🚀 **Currently Working On:** Automating a MERN E-Commerce Platform</p>
 <br>
 <h2 align="center">💻 My Tech Stack:</h2>
 <table align="center">
