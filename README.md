@@ -1,4 +1,4 @@
-<h1 align="center">Daksh Sir</h1>
+<h1 align="center">Daksh Sawhney</h1>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Cloud+Engineer;DevOps+Enthusiast;MERN+Stack+Developer;DSA+Practitioner" width="auto" height="35" alt="Typing"/>
 </p>
