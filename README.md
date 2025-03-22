@@ -1,108 +1,64 @@
-<!-- 🚀 Ultra-Excellent & Next-Level GitHub Profile README 🚀 -->
-
-<!-- Gradient Header Section -->
-<h1 align="center" style="font-family: 'Fira Code', monospace; font-size: 4rem; background: linear-gradient(90deg, #FF416C, #FF4B2B); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  Hey, I'm Daksh Sawhney
-</h1>
-<h3 align="center" style="font-family: 'Fira Code', monospace; font-size: 2.5rem; color: #00BFFF;">
-  Master of DevOps, Full Stack & Cloud Magic
-</h3>
-
-<!-- Animated Coding Banner -->
+<h1 align="center">Daksh Sir</h1>
 <p align="center">
-  <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxsa.gif" alt="Coding Animation" width="600px">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Cloud+Engineer;DevOps+Enthusiast;MERN+Stack+Developer;DSA+Practitioner" width="auto" height="35" alt="Typing"/>
 </p>
-
-<!-- Extra Animated GIFs for Maximum Impact -->
 <p align="center">
-  
-  <img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" alt="GIF 3" width="200px">
+  <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
 </p>
-
----
-
-## 🌟 About Me
-- I’m a **DevOps, Full Stack, and Cloud Wizard** dedicated to transforming code into art.
-- I push the boundaries of technology with a passion for **cutting-edge solutions**.
-- **Contact:** [dakshsawhneyy@gmail.com](mailto:dakshsawhneyy@gmail.com)
-
----
-
-## 🔥 Tech Stack
-<div align="center" style="font-family: 'Fira Code', monospace; font-size: 1.6rem; padding: 20px; border: 2px dashed #FF4B2B; border-radius: 10px; background: #f7f7f7;">
-  <p><strong>Languages</strong></p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  
-  <br><br>
-  <p><strong>DevOps & Cloud</strong></p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-  
-  <br><br>
-  <p><strong>Backend & Databases</strong></p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</div>
-
+<h2 align="center">👨‍💻 About Me:</h2>
+<p align="justify">I am a passionate Cloud and DevOps engineer with expertise in automation, deployment, and scalable solutions. I thrive on solving complex system challenges, optimizing workflows, and ensuring smooth deployments. I also have a strong background in full-stack development (MERN) and Data Structures & Algorithms (DSA). My interests include:</p>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Extra Impact GIF" width="300px">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Cloud+Computing;DevOps;Kubernetes;AWS;CI/CD+Automation" width="auto" height="35" alt="Typing"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-<table align="center" style="font-family: 'Fira Code', monospace; font-size: 1.2rem;">
-  <tr>
-    <th style="padding: 10px;">Project</th>
-    <th style="padding: 10px;">Tech Stack</th>
-    <th style="padding: 10px;">Link</th>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">E-Commerce Automation</td>
-    <td style="padding: 10px;">MERN, AWS, Docker, K8s</td>
-    <td style="padding: 10px;"><a href="https://github.com/dakshsawhney/E-Commerce-Auto">GitHub</a></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">CI/CD Pipeline</td>
-    <td style="padding: 10px;">Jenkins, Terraform, Ansible</td>
-    <td style="padding: 10px;"><a href="https://github.com/dakshsawhney/CI-CD-Pipeline">GitHub</a></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">Spotify Clone</td>
-    <td style="padding: 10px;">React, Node.js, MongoDB</td>
-    <td style="padding: 10px;"><a href="https://github.com/dakshsawhney/Spotify-Clone">GitHub</a></td>
-  </tr>
-  <tr>
-    <td style="padding: 10px;">Cloud Monitoring with Grafana</td>
-    <td style="padding: 10px;">Prometheus, Grafana, Docker</td>
-    <td style="padding: 10px;"><a href="https://github.com/dakshsawhney/Cloud-Monitoring">GitHub</a></td>
-  </tr>
+<p align="center">Currently learning -> Advanced AWS & DevSecOps</p>
+<p align="center">Currently working on -> Automating a MERN E-Commerce Platform</p>
+<br>
+<h2 align="center">💻 My Tech Stack:</h2>
+<table align="center">
+<tr>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65" alt="C"/><br><b>C</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="65" height="65" alt="C++"/><br><b>C++</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="65" height="65" alt="JavaScript"/><br><b>JavaScript</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="65" height="65" alt="NodeJS"/><br><b>Node.js</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="65" height="65" alt="React"/><br><b>React.js</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="65" height="65" alt="MongoDB"/><br><b>MongoDB</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/docker-icon.svg" width="65" height="65" alt="Docker"/><br><b>Docker</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" width="65" height="65" alt="Kubernetes"/><br><b>Kubernetes</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="65" height="65" alt="AWS"/><br><b>AWS</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" width="65" height="65" alt="Terraform"/><br><b>Terraform</b></td>
+   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="65" height="65" alt="Git"/><br><b>Git</b></td>
+</tr>
 </table>
-
----
-
-## 🔗 Connect with Me
+<br>
+<h2 align="center">📕 Featured Projects:</h2>
+<div align="center">
+<a href="https://github.com/dakshsir/mern-ecommerce-devops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dakshsir&repo=mern-ecommerce-devops&theme=transparent" alt="MERN DevOps E-Commerce"></a>
+<a href="https://github.com/dakshsir/kubernetes-cluster-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dakshsir&repo=kubernetes-cluster-automation&theme=transparent" alt="Kubernetes Automation"></a>
+<a href="https://github.com/dakshsir/terraform-aws-setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dakshsir&repo=terraform-aws-setup&theme=transparent" alt="Terraform AWS Setup"></a>
+<a href="https://github.com/dakshsir/cicd-gitlab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dakshsir&repo=cicd-gitlab&theme=transparent" alt="CI/CD GitLab"></a>
+</div>
+<br>
+<h2 align="center">📊 My GitHub Stats:</h2>
+<div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=dakshsir&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
+</div>
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dakshsir&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshsir&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8" alt="Top Languages"/>
+</div>
+<br>
+<h2 align="center">🔗 Connect with Me:</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/daksh-sawhney-5ab5862b5">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:dakshsir@gmail.com">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
   </a>
-  <a href="mailto:dakshsawhneyy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://dakshsir.vercel.app">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
   </a>
-</p>
-
----
-
-## ☕ Support Me
-<p align="center">
-  <a href="https://www.buymeacoffee.com/dakshsawhney">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/dakshsir/">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
 </p>
