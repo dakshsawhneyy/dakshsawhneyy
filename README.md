@@ -39,15 +39,6 @@
 <a href="https://github.com/dakshsir/cicd-gitlab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dakshsir&repo=cicd-gitlab&theme=transparent" alt="CI/CD GitLab"></a>
 </div>
 <br>
-<h2 align="center">📊 My GitHub Stats:</h2>
-<div align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=dakshsir&row=2&column=3&no-bg=true&margin-w=2&margin-h=2&no-frame=true" alt="Trophy"/>
-</div>
-<div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dakshsir&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dakshsir&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=8" alt="Top Languages"/>
-</div>
-<br>
 <h2 align="center">🔗 Connect with Me:</h2>
 <p align="center">
   <a href="mailto:dakshsir@gmail.com">
