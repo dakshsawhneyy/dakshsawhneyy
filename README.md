@@ -34,9 +34,6 @@
 <h2 align="center">📕 Featured Projects:</h2>
 <div align="center">
 <a href="https://wear-sphere-frontend.vercel.app/">ECommerce Site</a>
-<a href="https://github.com/dakshsir/kubernetes-cluster-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dakshsir&repo=kubernetes-cluster-automation&theme=transparent" alt="Kubernetes Automation"></a>
-<a href="https://github.com/dakshsir/terraform-aws-setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dakshsir&repo=terraform-aws-setup&theme=transparent" alt="Terraform AWS Setup"></a>
-<a href="https://github.com/dakshsir/cicd-gitlab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dakshsir&repo=cicd-gitlab&theme=transparent" alt="CI/CD GitLab"></a>
 </div>
 <br>
 <h2 align="center">🔗 Connect with Me:</h2>
