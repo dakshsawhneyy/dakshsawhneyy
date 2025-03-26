@@ -33,7 +33,7 @@
 <br>
 <h2 align="center">📕 Featured Projects:</h2>
 <div align="center">
-<a href="https://github.com/dakshsir/mern-ecommerce-devops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dakshsir&repo=mern-ecommerce-devops&theme=transparent" alt="MERN DevOps E-Commerce"></a>
+<a href="[https://github.com/dakshsir/mern-ecommerce-devops](https://github.com/dakshsawhneyy/WearSphere-Ecommerce-MERN)"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dakshsir&repo=mern-ecommerce-devops&theme=transparent" alt="MERN DevOps E-Commerce"></a>
 <a href="https://github.com/dakshsir/kubernetes-cluster-automation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dakshsir&repo=kubernetes-cluster-automation&theme=transparent" alt="Kubernetes Automation"></a>
 <a href="https://github.com/dakshsir/terraform-aws-setup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dakshsir&repo=terraform-aws-setup&theme=transparent" alt="Terraform AWS Setup"></a>
 <a href="https://github.com/dakshsir/cicd-gitlab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dakshsir&repo=cicd-gitlab&theme=transparent" alt="CI/CD GitLab"></a>
@@ -41,15 +41,12 @@
 <br>
 <h2 align="center">🔗 Connect with Me:</h2>
 <p align="center">
-  <a href="mailto:dakshsir@gmail.com">
+  <a href="mailto:dakshsawhneyy@gmail.com">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://dakshsir.vercel.app">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/chrome-modern-.svg" width="50" height="50" alt="Website"/>
-  </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/dakshsir/">
+  <a href="https://www.linkedin.com/in/daksh-sawhney-5ab5862b5/">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
 </p>
