@@ -52,8 +52,8 @@ Intend to build a career with committed & dedicated people, who will help me to 
 
 ### My GitHub Insights & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dakshsawhneyy&show_icons=true&theme=github_dark&hide=issues"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshsawhneyy&theme=github-dark-blue"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=dakshsawhneyy&show_icons=true&theme=github_dark&hide=issues"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=dakshsawhneyy&theme=github-dark-blue"/>
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dakshsawhneyy&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="YOUR_GITHUB_USERNAME" />
