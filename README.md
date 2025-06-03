@@ -1,49 +1,76 @@
-<h1 align="center">Hi 👋, I'm Daksh Sawhney</h1>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Cloud+DevOps+Enthusiast;MERN+Stack+Developer;DSA+Enthusiast" width="auto" height="35" alt="Typing"/>
-</p>
-<p align="center">
-  <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
-</p>
-<h2 align="center">👨‍💻 About Me:</h2>
-<p align="justify">I am a **passionate Cloud and DevOps enthusiast**, continuously learning automation, deployment, and scalable infrastructure solutions. I love problem-solving, optimizing workflows, and ensuring smooth deployments. My journey also includes **full-stack (MERN) development** and **Data Structures & Algorithms (DSA).** I’m always eager to explore new technologies and improve my skills.</p>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Cloud+Computing;DevOps;Kubernetes;AWS;CI/CD+Automation" width="auto" height="35" alt="Typing"/>
-</p>
-<p align="center">🌱 **Currently Learning:** Advanced AWS & DevSecOps</p>
-<p align="center">🚀 **Currently Working On:** Automating a MERN E-Commerce Platform</p>
-<br>
-<h2 align="center">💻 My Tech Stack:</h2>
-<table align="center">
-<tr>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" width="65" height="65" alt="C"/><br><b>C</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="65" height="65" alt="C++"/><br><b>C++</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="65" height="65" alt="Python"/><br><b>Python</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="65" height="65" alt="JavaScript"/><br><b>JavaScript</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="65" height="65" alt="NodeJS"/><br><b>Node.js</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="65" height="65" alt="React"/><br><b>React.js</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1-1.svg" width="65" height="65" alt="MongoDB"/><br><b>MongoDB</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/docker-icon.svg" width="65" height="65" alt="Docker"/><br><b>Docker</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/kubernetes.svg" width="65" height="65" alt="Kubernetes"/><br><b>Kubernetes</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="65" height="65" alt="AWS"/><br><b>AWS</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" width="65" height="65" alt="Terraform"/><br><b>Terraform</b></td>
-   <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="65" height="65" alt="Git"/><br><b>Git</b></td>
-</tr>
-</table>
-<br>
-<h2 align="center">📕 Featured Projects:</h2>
+![1747138910718](https://github.com/user-attachments/assets/bcb66758-e4b3-4553-95d1-e13547ac81b6)
+
+<!-- Visitor Badge -->
 <div align="center">
-<a href="https://wear-sphere-frontend.vercel.app/">ECommerce Site</a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdakshsawhneyy&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <br><br>
+  <a href="https://www.linkedin.com/in/dakshsawhneyy/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:dakshsawhneyy@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://twitter.com/dakshsawhneyy"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" /></a>
+  <a href="https://discordapp.com/users/dakshsawhneyy"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" /></a>
 </div>
-<br>
-<h2 align="center">🔗 Connect with Me:</h2>
+
+---
+
 <p align="center">
-  <a href="mailto:dakshsawhneyy@gmail.com">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" width="55" height="50" alt="Mail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/daksh-sawhney-5ab5862b5/">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" width="50" height="50" alt="LinkedIn"/>
-  </a>
+𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞! 𝐈’𝐦 <strong>Daksh Sawhney</strong> — A passionate DevSecOps learner, Cloud enthusiast, and DSA aficionado from India.<br>
+Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential. Willing to work as a key player in challenging and creative environment with all my professional and technical skills.
 </p>
+
+---
+
+### <p align="center">My Technical Skills</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,ansible,jenkins,kubernetes,grafana,git,terraform,gitlab" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,javascript,react,nodejs,mongodb,python,c,cpp,prometheus,bash,nginx,postman" />
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<samp>Trying to touch and learn 1 new thing everyday!</samp>
+---
+
+# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+
+<samp>Tools & Technologies</samp> | <samp>Badge</samp> |
+--- | --- |
+<samp>DevOps</samp> | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=0A0209) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=0A0209)  ![Microservices](https://img.shields.io/badge/microservices-%230075A8.svg?style=for-the-badge&logo=microservices&logoColor=0A0209) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=0A0209) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=0A0209)|
+<samp>Cloud Platforms</samp> | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=0A0209) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=0A0209) 
+<samp>Operating System</samp> | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=d5d5d5) ![Red Hat](https://img.shields.io/badge/redhat-%23EE0000.svg?style=for-the-badge&logo=redhat&logoColor=0A0209) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=0A0209) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=0A0209) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=0A0209) 
+<samp>Programming Languages</samp> | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=0A0209) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=d5d5d5) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=0A0209) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<samp>Frameworks</samp> | ![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=0A0209) ![React Native](https://img.shields.io/badge/react%20native-%23282C34.svg?style=for-the-badge&logo=react&logoColor=61DAFB)|
+<samp>IDE & Environment</samp> | ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=0A0209) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=d5d5d5&color=d5d5d5&labelColor=green)|
+<samp>Version Control</samp> | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=0A0209) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=0A0209) ![GitLab](https://img.shields.io/badge/gitlab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+<samp>Servers</samp> | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=0A0209) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=0A0209) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=0A0209) 
+<samp>Monitoring & Observability</samp> | ![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=0A0209) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=0A0209) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=0A0209)|
+<samp>Databases</samp> | ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=0A0209) ![MySQL](https://img.shields.io/badge/mysql-%234A90E2.svg?style=for-the-badge&logo=mysql&logoColor=0A0209) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=0A0209) 
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+
+### My GitHub Insights & Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dakshsawhneyy&show_icons=true&theme=github_dark&hide=issues"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshsawhneyy&theme=github-dark-blue"/>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dakshsawhneyy&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="YOUR_GITHUB_USERNAME" />
+
+<br>      
+<details>
+  <p align="center">
+    <a href="https://github.com/dakshsawhneyy">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dakshsawhneyy&theme=transparent" />
+    </a>
+    <a href="https://github.com/dakshsawhneyy">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshsawhneyy&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/dakshsawhneyy">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dakshsawhneyy&theme=transparent" />
+    </a>
+  </p>
+</details>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
