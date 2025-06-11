@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞! 𝐈’𝐦 <strong>Daksh Sawhney</strong> — A passionate DevSecOps learner, Cloud enthusiast, and DSA aficionado from India.<br>
+𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞! 𝐈’𝐦 <strong>Daksh Sawhney</strong> — A passionate DevSecOps learner, Cloud enthusiast, MERN Stack Developer and DSA aficionado from India.<br>
 Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential. Willing to work as a key player in challenging and creative environment with all my professional and technical skills.
 </p>
 
@@ -21,10 +21,13 @@ Intend to build a career with committed & dedicated people, who will help me to 
 
 ### <p align="center">My Technical Skills</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,ansible,jenkins,kubernetes,grafana,git,terraform,gitlab" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,javascript,react,nodejs,mongodb,python,c,cpp,prometheus,bash,nginx,postman" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,mongodb,postman,expressjs,redux,redis" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,jenkins,prometheus,kubernetes,grafana,git,terraform,gitlab,nginx" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
