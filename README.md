@@ -1,4 +1,4 @@
-![1747138910718](https://github.com/user-attachments/assets/bcb66758-e4b3-4553-95d1-e13547ac81b6)
+<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/43eac630-8ca2-4047-854a-051e09f727ed" />
 
 <!-- Visitor Badge -->
 <div align="center">
