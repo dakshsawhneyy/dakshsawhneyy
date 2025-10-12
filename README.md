@@ -18,7 +18,7 @@ Intend to build a career with committed & dedicated people, who will help me to 
 </p>
 
 ---
-<img width="2428" height="764" alt="image" src="https://github.com/user-attachments/assets/71aefb32-cc01-4ae2-ba23-07a7fd5a81f3" />
+[![@dakshsawhneyy’s Holopin board](https://holopin.io/api/user/board?user=dakshsawhneyy)](https://holopin.io/@dakshsawhneyy)
 
 # <p align="center">Hacktober Fest - 2025</p>
 
