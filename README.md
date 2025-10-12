@@ -18,9 +18,7 @@ Intend to build a career with committed & dedicated people, who will help me to 
 </p>
 
 ---
-[![@dakshsawhneyy’s Holopin board](https://holopin.io/api/user/board?user=dakshsawhneyy)](https://holopin.io/@dakshsawhneyy)
 
-# <p align="center">Hacktober Fest - 2025</p>
 
 ### <p align="center">My Technical Skills</p>
 <p align="center">
