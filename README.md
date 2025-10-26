@@ -11,11 +11,12 @@
 </div>
 
 ---
-
 <p align="center">
 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞! 𝐈’𝐦 <strong>Daksh Sawhney</strong> — A passionate DevSecOps learner, Cloud enthusiast, MERN Stack Developer and DSA aficionado from India.<br>
 Intend to build a career with committed & dedicated people, who will help me to explore myself and understand my potential. Willing to work as a key player in challenging and creative environment with all my professional and technical skills.
 </p>
+
+<img width="1362" height="427" alt="Screenshot 2025-10-26 235907" src="https://github.com/user-attachments/assets/c21cf822-9724-41fa-a53a-3ff0c7c0969d" />
 
 ---
 
