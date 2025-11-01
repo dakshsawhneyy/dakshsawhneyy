@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/43eac630-8ca2-4047-854a-051e09f727ed" />
+<img width="1584" height="396" alt="Blue Modern Corporate Staff Profile LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/01e7ddf1-e582-4456-9eb6-1d6e0fa51fce" />
 
 <!-- Visitor Badge -->
 <div align="center">
