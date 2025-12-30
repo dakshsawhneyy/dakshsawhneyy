@@ -12,7 +12,7 @@
 
 ---
 <p align="center">
-<b>Multi-Cloud SRE specializing in DevOps and MLOps - building reliable, secure, and scalable systems. </b>
+<b>Multi-Cloud SRE focused on DevOps and MLOps — building secure, reliable, and scalable platforms. </b>
 </p>
 
 <img width="1362" height="427" alt="Screenshot 2025-10-26 235907" src="https://github.com/user-attachments/assets/c21cf822-9724-41fa-a53a-3ff0c7c0969d" />
